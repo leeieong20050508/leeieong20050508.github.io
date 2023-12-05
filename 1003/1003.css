@@ -1,0 +1,20 @@
+@charset "utf-8";
+.main {
+    background-color: #2286F0;
+    width: 300px;
+    height: 150px;
+}
+.myphoto {
+    -webkit-box-shadow: 0px 0px #FFFFFF;
+    box-shadow: 0px 0px #FFFFFF;
+    width: 100px;
+    height: 150px;
+    background-color: #F8AB1B;
+    float: left;
+}
+.mytext {
+    background-color: #A3F35B;
+    width: 200px;
+    height: 150px;
+    float: right;
+}
